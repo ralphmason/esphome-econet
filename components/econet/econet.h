@@ -7,6 +7,7 @@
 #include <map>
 #include <vector>
 #include <set>
+#include <queue>
 
 namespace esphome {
 namespace econet {
